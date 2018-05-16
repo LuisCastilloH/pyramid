@@ -9,6 +9,9 @@ application with authentication and authorization.
 
 For cut and paste purposes, the source code for all stages of this tutorial can
 be browsed on `GitHub <https://github.com/Pylons/pyramid/>`_,
+=======
+For cut and paste purposes, the source code for all stages of this
+tutorial can be browsed on GitHub at `GitHub <https://github.com/Pylons/pyramid/>`_ for a specific branch or version under ``docs/tutorials/wiki2/src``,
 which corresponds to the same location if you have Pyramid sources.
 
 .. toctree::
